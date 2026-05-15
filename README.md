@@ -3,12 +3,12 @@
 Solving all 250 NeetCode problems in C# as part of my journey 
 into software development, with a focus on SAP Business One add-on development.
 
-## Progress: 1 / 250
+## Progress: 2 / 250
 
 ## Categories
 | Category | Progress |
 |---|---|
-| Arrays & Hashing | 1/9 |
+| Arrays & Hashing | 2/9 |
 | Two Pointers | 0/5 |
 | Sliding Window | 0/6 |
 | Stack | 0/7 |
